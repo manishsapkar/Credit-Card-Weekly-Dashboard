@@ -24,3 +24,4 @@ This Power BI project features two interactive dashboards that provide in-depth 
 🚀 Usage
   Use this project for portfolio analytics, BI presentations, financial reporting, or as a template to build your own credit card analytics tool in Power BI
   ![image alt](https://github.com/manishsapkar/Credit-Card-Weekly-Dashboard/blob/4453026ccefb2a902407a32a1bd5fa33a951a0ea/Credit%20Card%20Weekly%20Customer%20Report.jpg)
+  ![image alt](https://github.com/manishsapkar/Credit-Card-Weekly-Dashboard/blob/0deb1db4b0985ff2f71df10f35b78cca074ff5f8/Credit%20Card%20Weekly%20Transaction%20Report.jpg)
